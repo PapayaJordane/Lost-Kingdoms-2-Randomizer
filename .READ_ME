@@ -1,0 +1,35 @@
+Instructions:
+
+1. Enable the main code and any optional codes you want before starting the game (or reset the game
+if you do it after)
+
+2. Start game, skip cutscenes (or watch them if you're about that life), abort level
+
+3. Rename your deck to whatever you want. You may just rename it to the random name it was named,
+but it MUST be renamed (it CANNOT start with the capital letters "DE"   I will be fixing that as soon as
+I can find where the issue is)
+
+4. If you save the game using the in-game saving mechanic, when you load the file again you will
+need to name the deck again (name it to the same thing it's named)
+
+5. If you cannot complete a level because you lack a specific card (such as God of Destruction for
+Alanjeh Lower Tower) just equip your second deck and go in a couple times. You will magically
+have the card you need in that deck.
+
+6. Enjoy :)
+
+
+If you find a bug/issue, please tell me what the seed was and what happened. Message me in discord
+Papaya#8450 or in the Lost Kingdoms discord @Dr. LK
+
+
+What is randomized:
+--Cards - starting deck, in chests, level rewards, litter quests, cards given by NPCs
+--Shop  - cards sold in the Kadishu shop, buy/sell values for all cards
+
+
+Planned to be randomized:
+--Elements (optional)
+--stone costs (optional)
+--character (optional)
+--Levels and Key Items (optional)
