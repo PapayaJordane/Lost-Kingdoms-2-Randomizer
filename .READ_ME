@@ -40,3 +40,9 @@ Planned to be randomized:
 --stone costs (optional)
 --character (optional)
 --Levels and Key Items (optional)
+--Jarvi Rewards
+
+To do:
+--Remove Affinity Requirement for SBA doors
+--Make the safe file a file that has "completed the game" to prevent softlocking at Katia
+--Remove cutscenes like Gurd (Ruldo Forest), Outside of shop (Kadishu), etc.
