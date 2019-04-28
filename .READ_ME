@@ -1,7 +1,9 @@
 Instructions:
 
 1. Enable the main code and any optional codes you want before starting the game. Please also make sure to disable any other
-codes you have active.
+codes you have active. 
+
+2. go into Options -> Configuration -> Interface. Make sure that Panic Handlers are unchecked
 
 2. Start game, skip cutscenes (or watch them if you're about that life), abort level
 
@@ -18,7 +20,8 @@ have the card you need in that deck.
 
 6. Enjoy :)
 
-Note: I have only had one crash whil testing this. I would savestate often (especially before shopping)
+Note: I have only had one crash whil testing this. I would savestate often (especially before shopping and editing deck in level. I have
+softlocked while doing both)
 
 
 If you find a bug/issue, please tell me what the seed was and what happened. Message me in discord
