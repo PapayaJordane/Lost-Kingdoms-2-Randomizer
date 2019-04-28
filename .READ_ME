@@ -5,20 +5,20 @@ codes you have active.
 
 2. go into Options -> Configuration -> Interface. Make sure that Panic Handlers are unchecked
 
-2. Start game, skip cutscenes (or watch them if you're about that life), abort level
+3. Start game, skip cutscenes (or watch them if you're about that life), abort level
 
-3. Rename your deck to whatever you want. You may just rename it to the random name it was named,
+4. Rename your deck to whatever you want. You may just rename it to the random name it was named,
 but it MUST be renamed (it CANNOT start with the capital letters "DE"   I will be fixing that as soon as
 I can find where the issue is)
 
-4. If you save the game using the in-game saving mechanic, when you load the file again you will
+5. If you save the game using the in-game saving mechanic, when you load the file again you will
 need to name the deck again (name it to the same thing it's named)
 
-5. If you cannot complete a level because you lack a specific card (such as God of Destruction for
+6. If you cannot complete a level because you lack a specific card (such as God of Destruction for
 Alanjeh Lower Tower) just equip your second deck and go in a couple times. You will magically
 have the card you need in that deck.
 
-6. Enjoy :)
+7. Enjoy :)
 
 Note: I have only had one crash whil testing this. I would savestate often (especially before shopping and editing deck in level. I have
 softlocked while doing both)
