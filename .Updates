@@ -1,0 +1,19 @@
+Version 0.1 (April 27, 2019)
+
+*Added the Main randomizer
+    --Randomizes Starting Cards, Chests with cards, card rewards, cards given by NPCs and Trash Cans
+    --Gives cards needed to complete certain levels in those levels (Example: Puts Hellhound in your second deck when you enter
+      Fossil Boneyard and abort with the same deck, removes hellhound when you enter another level)
+
+*Added Shop Card randomizer
+  --Randomizes which cards will appear in the Kadishu shop (will add the Grenfoel shop soon)
+  
+*Added Buy Value Randomizer
+  --Randomizes how much cards will cost to buy in the shop (Dark Raven might cost 500)
+  --Numbers are between 50 and 5,000 for now. That may be changed in the future for balancing reasons
+
+*Added Enemy Cards Randomizer
+  --Randomizer the cards other card users will use (Leod III might use a Pegasus card instead of UberBomberbot)
+  --Formerly known as "Secret Randomizer"
+  
+  Currently working on more! :D
